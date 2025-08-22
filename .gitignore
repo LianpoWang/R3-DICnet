@@ -17,3 +17,14 @@ outputs/
 *.tif
 *.bmp
 *.csv
+Dataset/
+img/
+__pycache__/
+.idea/
+*.pyc
+logs/
+runs/
+outputs/
+*.tif
+*.bmp
+*.csv
